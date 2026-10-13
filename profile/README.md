@@ -47,9 +47,9 @@ Step4ward es un proyecto creado por mujeres, para mujeres, desde mayo de 2021. S
 ## Únete
 
 <p align="center">
-  <a href="https://step4ward.es/mentorizadas/"><img src="https://img.shields.io/badge/Quiero%20una%20mentor%C3%ADa-FF3976?style=for-the-badge" alt="Quiero una mentoría"></a>
-  <a href="https://step4ward.es/mentoras/"><img src="https://img.shields.io/badge/Quiero%20ser%20mentora-8C52FF?style=for-the-badge" alt="Quiero ser mentora"></a>
-  <a href="https://step4ward.es/colabora/"><img src="https://img.shields.io/badge/Quiero%20colaborar-19116F?style=for-the-badge" alt="Quiero colaborar"></a>
+  <a href="https://step4ward.es/que-esperar-del-proceso-de-mentoria-como-mentorizada/"><img src="https://img.shields.io/badge/Quiero%20una%20mentor%C3%ADa-FF3976?style=for-the-badge" alt="Quiero una mentoría"></a>
+  <a href="https://step4ward.es/como-prepararte-para-las-sesiones-como-mentora/"><img src="https://img.shields.io/badge/Quiero%20ser%20mentora-8C52FF?style=for-the-badge" alt="Quiero ser mentora"></a>
+  <a href="https://step4ward.es/quieres-colaborar-con-step4ward/"><img src="https://img.shields.io/badge/Quiero%20colaborar-19116F?style=for-the-badge" alt="Quiero colaborar"></a>
 </p>
 
 <p align="center">
